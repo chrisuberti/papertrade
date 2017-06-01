@@ -1,4 +1,4 @@
-#Paper Trading
+# Paper Trading
 
 This is designed to be a tool to document and track a 'paper' trading account
 i.e. Test out skills and theories trading stocks
@@ -8,9 +8,9 @@ Alfa Vantage Stock API key: **DFJA**
 
 
 List of things to do:
-*test
-*test
-*test
+* test
+* test
+* test
 
 
 List of cababilities: 
